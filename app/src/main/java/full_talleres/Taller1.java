@@ -1,21 +1,6 @@
-/*
- * Primer taller de lógica de programación. Recuerda la siguiente rúbrica para cada ejercicio, 
- * basada en los mandamientos del programador. Este taller te ayudará a prepararte para la evaluación 
- * y los descuentos se tendrán en cuenta. A través de este taller, aprenderás a aplicar buenas prácticas 
- * en la programación.
- * 
- * El puntaje en la evaluación automática de GitHub se revisará según la siguiente rúbrica acumulativa:
- * - Descuento por valores quemados en el código y no usar constantes: -0.5
- * - Descuento por no implementar control de errores con try-catch: -0.8
- * - Descuento por no mantener el código ordenado e indentado: -0.4
- * 
- * ¡RÉTESE Y PÓNGASE A PRUEBA!
- * 
- */
 package full_talleres;
 
 public class Taller1 { 
-    
     public static void main(String[] args) {
 
     }
